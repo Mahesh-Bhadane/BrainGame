@@ -6,7 +6,7 @@
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# githubog: http://ogp.me/ns/fb/githubog#">
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>BrainVita/Assets/js/jquery.js at gh-pages · Mahesh-Bhadane/BrainGame</title>
+        <title>BrainGame/Assets/js/jquery.js at gh-pages · Mahesh-Bhadane/BrainGame</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
@@ -46,7 +46,7 @@
       
       <meta http-equiv="x-pjax-version" content="2a432b5f4c71e8c5b76ec30d0f201890">
 
-        <link data-pjax-transient rel='permalink' href='/Tarang1993/BrainVita/blob/0cdc5262f22e696a87fc9713c4115056e0aba9c8/Assets/js/jquery.js'>
+        <link data-pjax-transient rel='permalink' href='/Mahesh-Bhadane/BrainGame/blob/0cdc5262f22e696a87fc9713c4115056e0aba9c8/Assets/js/jquery.js'>
   <meta property="og:title" content="BrainGame"/>
   <meta property="og:type" content="githubog:gitrepository"/>
   <meta property="og:url" content="https://github.com/Mahesh-Bhadane/BrainGame"/>
@@ -57,7 +57,7 @@
   <meta name="description" content="BrainGame - An online Brainvita marble game." />
 
   <meta content="2117700" name="octolytics-dimension-user_id" /><meta content="Mahesh-Bhadane" name="octolytics-dimension-user_login" /><meta content="12452830" name="octolytics-dimension-repository_id" /><meta content="Mahesh-Bhadane/BrainGame" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="12452830" name="octolytics-dimension-repository_network_root_id" /><meta content="Mahesh-Bhadane/BrainGame" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/Mahesh-Bhadane/BrainGame/commits/gh-pages.atom" rel="alternate" title="Recent Commits to BrainVita:gh-pages" type="application/atom+xml" />
+  <link href="https://github.com/Mahesh-Bhadane/BrainGame/commits/gh-pages.atom" rel="alternate" title="Recent Commits to BrainGame:gh-pages" type="application/atom+xml" />
 
   </head>
 
@@ -318,7 +318,7 @@
           <span class="author">
             <a href="/Mahesh-Bhadane" class="url fn" itemprop="url" rel="author"><span itemprop="title">Mahesh-Bhadane</span></a></span
           ><span class="repohead-name-divider">/</span><strong
-          ><a href="/Mahesh-Bhadane/BrainGame" class="js-current-repository js-repo-home-link">BrainVita</a></strong>
+          ><a href="/Mahesh-Bhadane/BrainGame" class="js-current-repository js-repo-home-link">BrainGame</a></strong>
 
           <span class="page-context-loader">
             <img alt="Octocat-spinner-32" height="16" src="https://github.global.ssl.fastly.net/images/spinners/octocat-spinner-32.gif" width="16" />
