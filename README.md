@@ -1,14 +1,16 @@
-BrainVita
+BrainGames
 =========
 
-Brainvita (Peg solitaire) is a famous board game involving movement of coins or marbles on a board with holes.
+BrainGame is a famous board game involving movement of coins or marbles on a board with holes.
 
-You can play the online version of this game by going to the following url:
+Rules:
 
-http://tarang1993.github.io/BrainVita/
+Select a coin to jump it over another coin.
 
-For any queries or to report bugs in the game, contact me.
+You can jump over only 1 coin either horizontally or vertically.
 
- 
-- Tarang Patel <tarangrockr@gmail.com>
+You cannot jump over a coin diagonally.
 
+The coin which is jumped over by another coin will be removed.
+
+If 1 coin remains at the end, you have won the game!
